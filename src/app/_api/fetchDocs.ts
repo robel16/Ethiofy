@@ -23,7 +23,7 @@ const queryMap = {
   },
   categories:{
     query: CATEGORIES,
-    key:"Categories"
+    key:'Categories'
   }
 }
 
